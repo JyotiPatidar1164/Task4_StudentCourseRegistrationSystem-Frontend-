@@ -1,0 +1,73 @@
+/* Style for the Student Registration container */
+/* Style for the Registration container */
+.registration-container {
+    width: 400px; /* Set the desired width */
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  
+  /* Style for input containers */
+  .input-container {
+    margin-bottom: 15px;
+  }
+  
+  /* Style for labels */
+  .input-container label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    text-align: left; /* Align labels to the left */
+  }
+  
+  /* Style for input fields */
+  /* Style for input fields with added left and right padding */
+.input-container input {
+    width: 100%;
+    padding: 10px 2px; /* Adjust the padding values as needed */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  
+  /* Style for the Registration button */
+  .registration-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Style for the Registration button on hover */
+  .registration-button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Style for the result message */
+  .result {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border-radius: 5px;
+    text-align: center; /* Center-align the result message */
+  }
+
+  /* Style for centering content on the page */
+.page-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  

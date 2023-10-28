@@ -1,0 +1,25 @@
+/* In a separate CSS file or in a <style> block within the component */
+.attractive-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+  }
+  
+  .blue-button {
+    background-color: #0074cc; /* Blue color */
+    box-shadow: 2px 2px 5px #888;
+  }
+  
+  .red-button {
+    background-color: #e74c3c; /* Red color */
+    box-shadow: 2px 2px 5px #888;
+  }
+
+  .green-button {
+    background-color: #4CAF50; /* Green color */
+    box-shadow: 2px 2px 5px #888;
+  }
+  
